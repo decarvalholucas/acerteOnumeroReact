@@ -1,2 +1,0 @@
-# acerteOnumeroReact
-Created with CodeSandbox
